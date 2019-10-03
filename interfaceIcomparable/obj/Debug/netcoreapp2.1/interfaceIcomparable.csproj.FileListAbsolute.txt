@@ -1,0 +1,11 @@
+C:\csharp\interfaceIcomparable\interfaceIcomparable\bin\Debug\netcoreapp2.1\interfaceIcomparable.deps.json
+C:\csharp\interfaceIcomparable\interfaceIcomparable\bin\Debug\netcoreapp2.1\interfaceIcomparable.runtimeconfig.json
+C:\csharp\interfaceIcomparable\interfaceIcomparable\bin\Debug\netcoreapp2.1\interfaceIcomparable.runtimeconfig.dev.json
+C:\csharp\interfaceIcomparable\interfaceIcomparable\bin\Debug\netcoreapp2.1\interfaceIcomparable.dll
+C:\csharp\interfaceIcomparable\interfaceIcomparable\bin\Debug\netcoreapp2.1\interfaceIcomparable.pdb
+C:\csharp\interfaceIcomparable\interfaceIcomparable\obj\Debug\netcoreapp2.1\interfaceIcomparable.csprojAssemblyReference.cache
+C:\csharp\interfaceIcomparable\interfaceIcomparable\obj\Debug\netcoreapp2.1\interfaceIcomparable.csproj.CoreCompileInputs.cache
+C:\csharp\interfaceIcomparable\interfaceIcomparable\obj\Debug\netcoreapp2.1\interfaceIcomparable.AssemblyInfoInputs.cache
+C:\csharp\interfaceIcomparable\interfaceIcomparable\obj\Debug\netcoreapp2.1\interfaceIcomparable.AssemblyInfo.cs
+C:\csharp\interfaceIcomparable\interfaceIcomparable\obj\Debug\netcoreapp2.1\interfaceIcomparable.dll
+C:\csharp\interfaceIcomparable\interfaceIcomparable\obj\Debug\netcoreapp2.1\interfaceIcomparable.pdb
